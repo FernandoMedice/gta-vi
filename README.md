@@ -1,6 +1,6 @@
 # GTA VI - Página de Teste
 
-Este projeto é uma página web estática criada para fins de teste e estudo, utilizando HTML, CSS e JavaScript.
+Este projeto é uma página web estática criada para fins de estudo, utilizando HTML, CSS e JavaScript.
 
 ## Sobre o projeto
 
